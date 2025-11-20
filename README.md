@@ -119,3 +119,4 @@ Explore all 3 report pages & interactive visuals
 🌟 Conclusion
 
 This Power BI project provides a powerful analytics solution enabling better decision-making, real-time performance tracking, and strategic planning. The dashboard is designed with clean visuals, optimized DAX measures, and a user-friendly layout ready for business use.
+Example:https://github.com/AdityaChavan74/Mobile-Sales-Dashboard/blob/main/1.jpg,https://github.com/AdityaChavan74/Mobile-Sales-Dashboard/blob/main/2.jpg,https://github.com/AdityaChavan74/Mobile-Sales-Dashboard/blob/main/3.jpg
